@@ -12,6 +12,8 @@ This repository contains my notes, Java implementations, UML diagrams, and examp
 
 ### 2. Object-Oriented Programming (OOP)
 - Class & Object
+- ENUM
+- Interface
 - Encapsulation
 - Abstraction
 - Inheritance
@@ -30,12 +32,14 @@ This repository contains my notes, Java implementations, UML diagrams, and examp
 - Package Diagram
 - Profile Diagram
 - Communication Diagram
+- Interaction Overview Diagram
 
 ### 4. Class Relationships
 - Association
 - Aggregation
 - Composition
 - Dependency
+- Realization
 
 ### 5. Design Principles
 #### SOLID Principles
@@ -49,6 +53,9 @@ This repository contains my notes, Java implementations, UML diagrams, and examp
 - DRY (Don't Repeat Yourself)
 - KISS (Keep It Simple, Stupid)
 - YAGNI (You Aren't Gonna Need It)
+- Law Of Demeter
+- Separation Of Concerns
+- Coupling and Cohesion
 
 ### 6. Gang of Four (GoF) Design Patterns
 #### Creational Patterns (5)
